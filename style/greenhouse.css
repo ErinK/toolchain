@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+#main {
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+#main .app-title {
+  display: block;	
+  font-size: 24px;
+  line-height: 1.6em;
+}
+
+
+.opening {
+  margin-bottom: 40px;
+}
+
+.opening a {
+  color: #00a9b7;
+  font-size: 20px;
+  line-height: 1.6em;
+  -webkit-transition: 0.5s all ease;
+  transition: 0.5s all ease;
+}
+
+.opening a:hover {
+  color: #33485b;
+  text-decoration: none;
+}
+
+.location {
+  font-size: 20px;
+  line-height: 1.6em;
+  color: #33485b;
+}
+
+#header {
+	padding-right: 0;
+}
+
+#app_body {
+  max-width: none;
+  padding-left: 0 !important;
+}
+
+#app_body #content {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.6em;
+}
+
+#app_body #content ul {
+  text-align: left;
+}
+
+.company-name {
+  font-size: 20px;
+  color: #33485b;
+}
+
+#application {
+  margin: 40px auto;
+}
+
+#application .heading {
+	font-size: 20px;
+	color: #33485b;
+	line-height: 1.6em;
+	margin-bottom: 20px;
+}
+
+.field label {
+  font-size: 16px !important;
+  color: #33485b !important;
+}
+
+.field input[type='text'],
+.field select,
+.field textarea {
+  font-size: 15px !important;
+  color: #33485b !important;
+}
+
+input[type='button'] {
+  background-color: #1e2538 !important;
+  border: none !important;
+  color: white !important;
+  font-size: 20px !important;
+  text-shadow: none !important;
+  border-radius: 2em !important;
+  padding: 0.8em 2.5em !important;
+}
