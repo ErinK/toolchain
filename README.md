@@ -6,7 +6,7 @@ Design by [Chapas Design](http://chapasdesign.com/).
 ## Basic Structure
 `<head>`, `<header>`, and `<footer>` sections are the same across all pages. `active` class has been added to menu items for styling purposes. The cookie consent modal box is also the same on all pages and is located just after the opening `<body>` tag.
 
-There are 3 different basic page templates. You'll note the differences in the `<main>` section of each page.
+There are 3 basic page templates. You'll note the differences in the `<main>` section of each page.
 
 Details below:
 
